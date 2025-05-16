@@ -1,0 +1,5 @@
+remove Control Panel\User Accounts\Credential Manager GitHub other login use
+cmd open 
+
+git config user.name narayan
+git config user.email narayanlaxmipatil@gmail.com
