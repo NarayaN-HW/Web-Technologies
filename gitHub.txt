@@ -21,6 +21,12 @@ git remote add origin https://github.com/NarayaN-HW/Web-Technologies.git
 
 git push -u origin main
 
+if error To https://github.com/NarayaN-HW/Web-Technologies.git
+ ! [rejected]        main -> main (fetch first)
+git branch -M main	
+git pull --rebase --autostash origin main
+
+
 
 
 
