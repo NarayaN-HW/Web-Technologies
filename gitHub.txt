@@ -3,3 +3,37 @@ cmd open
 
 git config user.name narayan
 git config user.email narayanlaxmipatil@gmail.com
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "initial data"
+
+git branch -M main
+
+only 1 time added 
+git remote add origin https://github.com/NarayaN-HW/Web-Technologies.git
+
+git push -u origin main
+
+
+
+
+---------------
+echo "# Web-Technologies" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NarayaN-HW/Web-Technologies.git
+git push -u origin main
+
+
+git remote add origin https://github.com/NarayaN-HW/Web-Technologies.git
+git branch -M main
+git push -u origin main
